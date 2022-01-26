@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'b478b8e0049cc044d9765581e5c127d26213c2b1',
+    'reference' => 'fef91aebd03ab9cf8dfe687ee78d6e3bada9617a',
     'name' => 'maithemewp/mai-catalina',
   ),
   'versions' => 
@@ -25,7 +25,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'b478b8e0049cc044d9765581e5c127d26213c2b1',
+      'reference' => 'fef91aebd03ab9cf8dfe687ee78d6e3bada9617a',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -35,7 +35,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
+      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
     ),
   ),
 );
